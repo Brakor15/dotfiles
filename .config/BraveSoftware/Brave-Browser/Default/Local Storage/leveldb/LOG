@@ -1,0 +1,9 @@
+2022/06/22-14:42:18.898 5 Reusing MANIFEST /home/brakor/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/06/22-14:42:18.898 5 Recovering log #3
+2022/06/22-14:42:18.898 5 Reusing old log /home/brakor/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
+2022/06/22-14:43:09.688 5 Level-0 table #5: started
+2022/06/22-14:43:09.695 5 Level-0 table #5: 87957 bytes OK
+2022/06/22-14:43:09.699 5 Delete type=0 #3
+2022/06/22-14:57:47.433 5 Level-0 table #7: started
+2022/06/22-14:57:47.437 5 Level-0 table #7: 89728 bytes OK
+2022/06/22-14:57:47.440 5 Delete type=0 #4
