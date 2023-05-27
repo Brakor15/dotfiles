@@ -8,11 +8,11 @@ super + Return
 
 # Navigator
 super + w
-	qutebrowser
+	firefox
 
 # program launcher
 super + p
-	rofi -combi-modi window,drun,ssh -theme slate -show run -icon-theme "Papirus" -show-icons
+	rofi -combi-modi window,drun,ssh -theme nord -show run -icon-theme "Papirus" -show-icons
 
 # make sxhkd reload its configuration files:
 super + Escape

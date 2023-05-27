@@ -1,9 +1,8 @@
 #! /bin/sh
 
 pgrep -x sxhkd > /dev/null || sxhkd &
-polybar &
 
-bspc monitor -d I II III IV V VI VII VIII IX X
+bspc monitor -d 1 2 3 4
 
 bspc config border_width         3
 bspc config focused_border_color \#FFFFB3
@@ -19,3 +18,8 @@ bspc rule -a Chromium desktop='^2'
 bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
+
+#AutoStart
+picom & #compositor
+feh --bg-fill ~/.config/wallpaper/japan_cherry_blossom.jpg #wallpaper
+$HOME/.config/polybar/launch.sh #bar

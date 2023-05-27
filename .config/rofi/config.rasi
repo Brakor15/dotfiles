@@ -1,2 +1,3 @@
 //@theme "/usr/share/rofi/themes/Adapta-Nokto.rasi"
-@theme "/home/brakor/.local/share/rofi/themes/slate.rasi"
+//@theme "/home/brakor/.local/share/rofi/themes/slate.rasi"
+@theme "/home/ypascoet/.local/share/rofi/themes/nord.rasi"
